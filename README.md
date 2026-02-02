@@ -37,3 +37,19 @@ Utilisateurs :
        - un bouton "modifier" a côté de chaque champ modifiable qui transforme l'affichage en champ de modif ou qui affiche une pop up de modifiaction du champ avec deux boutons : Annuler / Confirmer
 
 Stocks : 
+
+- Afficher le stock actuel :
+       - Affichage du stock actuel à Afficher,
+       - Affichage de toutes les infos des objets selectionnés
+  - Bouton ajout d'un objet au stock
+       - Affiche des champs à remplir pour créer l'utilisateur,
+       - Vérification que l'utilisateur n'éxiste pas déjà
+       - écriture dans la base utilisateur du nouvel utilisateur.
+  - Bouton Suppression d'un objet au stock
+       - Affichage d'un champ pour rechercher l'objet à supprimer,
+       - Affichage des infos de l'objet avec 2 boutons + un champ pour mettre le nombre à supprimer : Annuler / Supprimer
+       - Si bouton annuler : menu, Si bouton Supprimer : supprime la quantité demandée avec confirmation.
+  - Bouton Modification d'un objet du stock
+       - Affichage d'un champ pour rechercher l'objet à modifier,
+       - Affichage de toutes les infos modifiables de l'objet,
+       - un bouton "modifier" a côté de chaque champ modifiable qui transforme l'affichage en champ de modif ou qui affiche une pop up de modifiaction du champ avec deux boutons : Annuler / Confirmer
