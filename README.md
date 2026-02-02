@@ -18,6 +18,8 @@ Interface graphique :
       - Parametres?
 
 Utilisateurs :
+ (OPTIONNEL : Utilisateurs à autorisations variables : 0 = emprunteur (élève) ; 1 = autor d'accès au menu emprunt et stats et param ; 2 = 1 + Stocks ; 3 : 2 + utilisateurs )
+ 
   - Afficher un utilisateur :
        - Affichage d'un champ pour rechercher l'utilisateur à Afficher,
        -  Affichage de toutes les infos de l'utilisateur
