@@ -1,2 +1,37 @@
 # SAE_COO_SANZ_MARRE
 Github du projet de Conception Orienté Objet du S2 de BUT SD.
+
+Objectif : 
+
+Réaliser une application graphique Java permettant de : 
+ P1 - Gérer les utilisateurs de l'application (créer, supprimer, modifier...)
+ P1 - Gérer les réservations de materiel (emprunt, retours, modification ...)
+ P1 - Gérer les stocks de matériel (ajouter, supprimer, modifier...)
+ P2 - Afficher les statistiques du materiel (TdB dynamique si possible)
+
+Interface graphique : 
+  - Panneau gauche avec onglets :
+      - Utilisateurs
+      - Stocks /ressources
+      - Materiel / Reservations
+      - Statistiques
+      - Parametres?
+
+Utilisateurs :
+  - Afficher un utilisateur :
+       - Affichage d'un champ pour rechercher l'utilisateur à Afficher,
+       -  Affichage de toutes les infos de l'utilisateur
+  - Bouton ajout d'utilisateur
+       - Affiche des champs à remplir pour créer l'utilisateur,
+       - Vérification que l'utilisateur n'éxiste pas déjà
+       - écriture dans la base utilisateur du nouvel utilisateur.
+  - Bouton Suppression d'utilisateur
+       - Affichage d'un champ pour rechercher l'utilisateur à supprimer,
+       - Affichage des infos de l'utilisateur avec 2 boutons : Annuler / Supprimer
+       - Si bouton annuler : menu, Si bouton Supprimer : Demande à l'opérateur de remarquer le nom de l'utilisateur en entier pour confirmer la suppression avec de nouveau deux boutons : Annuler / Supprimer
+  - Bouton Modification d'utilisateur
+       - Affichage d'un champ pour rechercher l'utilisateur à modifier,
+       - Affichage de toutes les infos modifiables de l'utilisateur,
+       - un bouton "modifier" a côté de chaque champ modifiable qui transforme l'affichage en champ de modif ou qui affiche une pop up de modifiaction du champ avec deux boutons : Annuler / Confirmer
+
+Stocks : 
