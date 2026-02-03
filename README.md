@@ -4,6 +4,7 @@ Github du projet de Conception Orienté Objet du S2 de BUT SD.
 Objectif : 
 
 Réaliser une application graphique Java permettant de : 
+
  P1 - Gérer les utilisateurs de l'application (créer, supprimer, modifier...)
  P1 - Gérer les réservations de materiel (emprunt, retours, modification ...)
  P1 - Gérer les stocks de matériel (ajouter, supprimer, modifier...)
