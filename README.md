@@ -16,8 +16,8 @@ Réaliser une application graphique Java permettant de :
 Interface graphique : 
   - Panneau gauche avec onglets :
       - Utilisateurs
-      - Stocks /ressources
-      - Materiel / Reservations
+      - Ressources
+      - Reservations
       - Statistiques
       - Parametres?
 
