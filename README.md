@@ -6,8 +6,11 @@ Objectif :
 Réaliser une application graphique Java permettant de : 
 
  P1 - Gérer les utilisateurs de l'application (créer, supprimer, modifier...)
+ 
  P1 - Gérer les réservations de materiel (emprunt, retours, modification ...)
+ 
  P1 - Gérer les stocks de matériel (ajouter, supprimer, modifier...)
+ 
  P2 - Afficher les statistiques du materiel (TdB dynamique si possible)
 
 Interface graphique : 
