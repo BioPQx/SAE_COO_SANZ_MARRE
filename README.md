@@ -81,3 +81,4 @@ Statistiques :
 
 Paramètres : 
    - Définir quelques paramètres simples à insérer ici.
+   - Ici sera les boutons de chargement et d'extraction des CSV.
