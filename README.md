@@ -52,4 +52,32 @@ Stocks :
   - Bouton Modification d'un objet du stock
        - Affichage d'un champ pour rechercher l'objet à modifier,
        - Affichage de toutes les infos modifiables de l'objet,
-       - un bouton "modifier" a côté de chaque champ modifiable qui transforme l'affichage en champ de modif ou qui affiche une pop up de modifiaction du champ avec deux boutons : Annuler / Confirmer
+       - un bouton "modifier" a côté de chaque champ modifiable qui transforme l'affichage en champ de modif ou qui affiche une pop up de modifiaction du champ    avec deux boutons : Annuler / Confirmer
+
+Reservations : 
+
+  - Bouton emprunter :
+       - Trois champs a compléter, 1 champ user qui emprunte; 1 champ objet emprunté; 1 champ nb objets empruntés.
+       - 2 boutons, Valider / annuler
+  - Bouton retour :
+       - Affiche un champ a compléter user;
+       - listing des emprunts de cet utilisateur;
+       - des cases a cocher a coté de chaque objet a retourner.
+       - Un bonton valider / Annuler
+  - Bouton Perte :
+       - Affiche un champ a compléter objet;
+       - Affichage des infos de l'objet avec 2 boutons + un champ pour mettre le nombre perdu : Annuler / Valider
+  - Bouton Modification d'un etat
+       - Deux champs a compléter, 1 champ user qui emprunte; 1 champ objet emprunté;
+       - Affiche les informations de l'emprunt; boutons de modifications de ces champs.
+   
+Statistiques : 
+
+  - Tableau de bord adaptatif simple avec au moins :
+       - Ratio nb objets empruntés / nb objets
+       - Ratio nb pertes / nb objets
+       - Moyenne de durée d'emprunt
+       - ...
+
+Paramètres : 
+   - Définir quelques paramètres simples à insérer ici.
