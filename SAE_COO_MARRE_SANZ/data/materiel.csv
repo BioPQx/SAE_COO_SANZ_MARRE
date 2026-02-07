@@ -1,0 +1,2 @@
+id_materiel;nom;description;etat;quantite_totale;quantite_disponible;seuil_alerte;actif;id_categorie
+1;PC Portable;Dell Latitude;bon;10;10;2;true;1
