@@ -16,8 +16,6 @@ import javafx.stage.Stage;
 import javafx.scene.layout.Region;
 import javafx.geometry.Pos;
 
-
-
 import java.io.IOException;
 import java.time.format.DateTimeFormatter;
 import java.util.List;

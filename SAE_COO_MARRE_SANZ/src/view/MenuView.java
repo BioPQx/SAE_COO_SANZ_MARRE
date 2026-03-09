@@ -18,8 +18,8 @@ public class MenuView {
 
         Button btnAccueil = new Button("Accueil");
         Button btnUtilisateurs = new Button("Utilisateurs");
-        Button btnStock = new Button("Stocks / Ressources");
-        Button btnEmprunts = new Button("Matériel / Réservations");
+        Button btnStock = new Button("Stocks");
+        Button btnEmprunts = new Button("Réservations");
         Button btnStats = new Button("Statistiques");
         Button btnParams = new Button("Paramètres");
         
