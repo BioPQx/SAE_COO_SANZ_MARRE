@@ -1,0 +1,10 @@
+parametre;valeur
+seuilAlerte;2
+dureeReservation;2
+maxReservations;5
+theme;Sombre
+couleur;Bleu
+animations;true
+alertes;true
+confirmation;true
+stats;true

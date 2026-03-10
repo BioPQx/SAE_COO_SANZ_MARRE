@@ -1,0 +1,94 @@
+id;ressource;description;etat;nombre;quantite_disponible;seuil_alerte;actif;statut
+1;PC B CD 1;PC B CD 1;bon;153;139;2;true;DISPONIBLE
+2;PC B CD n�11;PC B CD n�11;moyen;150;142;2;true;DISPONIBLE
+3;Ipad n�4;Ipad n�4;neuf ;155;136;2;true;DISPONIBLE
+4;Ipad n�9;Ipad n�9;bon;155;143;2;true;DISPONIBLE
+5;Ipad n�8;Ipad n�8;moyen;98;93;2;true;DISPONIBLE
+6;Ipad n�5;Ipad n�5;neuf ;186;0;2;true;DISPONIBLE
+7;Ipad n�6;Ipad n�6;bon;138;125;2;true;DISPONIBLE
+8;Ipad n�7;Ipad n�7;moyen;94;89;2;true;DISPONIBLE
+9;VP 01;VP 01;neuf ;21;19;2;true;DISPONIBLE
+10;Ipad n�2;Ipad n�2;bon;129;86;2;true;DISPONIBLE
+11;PC B CD n�2;PC B CD n�2;moyen;191;172;2;true;DISPONIBLE
+12;PC B CD n�3;PC B CD n�3;neuf ;92;46;2;true;DISPONIBLE
+13;RONDSON n�5;RONDSON n�5;bon;30;28;2;true;DISPONIBLE
+14;VP 04;VP 04;moyen;189;170;2;true;DISPONIBLE
+15;PC B CD 5;PC B CD 5;neuf ;96;80;2;true;DISPONIBLE
+16;Tascam mini n�2;Tascam mini n�2;bon;81;0;2;true;DISPONIBLE
+17;Tascam mini n�3;Tascam mini n�3;moyen;74;69;2;true;DISPONIBLE
+18;Tascam mini n�4;Tascam mini n�4;neuf ;44;41;2;true;DISPONIBLE
+19;Tascam mini n�6;Tascam mini n�6;bon;3;2;2;true;DISPONIBLE
+20;Tascam mini n�7;Tascam mini n�7;moyen;115;108;2;true;INDISPONIBLE
+21;Camescope HD n�1;Camescope HD n�1;neuf ;93;87;2;true;DISPONIBLE
+22;PC B CD n�1;PC B CD n�1;bon;90;72;2;true;DISPONIBLE
+23;Tascam mini n�8;Tascam mini n�8;moyen;20;19;2;true;DISPONIBLE
+24;VP 02;VP 02;neuf ;10;8;2;true;DISPONIBLE
+25;Camescope HD n�9;Camescope HD n�9;bon;172;162;2;true;DISPONIBLE
+26;PC B CD n�10;PC B CD n�10;moyen;43;38;2;true;DISPONIBLE
+27;PC B LD n�1;PC B LD n�1;neuf ;87;44;2;true;DISPONIBLE
+28;PC B CD n�5;PC B CD n�5;bon;162;151;2;true;DISPONIBLE
+29;RONDSON n�1 c�ble du Rondson n�3 car n�1 HS;RONDSON n�1 c�ble du Rondson n�3 car n�1 HS;moyen;57;51;2;true;DISPONIBLE
+30;PC B CD n�9;PC B CD n�9;neuf ;40;36;2;true;DISPONIBLE
+31;Tascam mini n�5;Tascam mini n�5;bon;33;30;2;true;DISPONIBLE
+32;VP 17;VP 17;moyen;69;66;2;true;DISPONIBLE
+33;PC B CD n�6;PC B CD n�6;neuf ;111;102;2;true;DISPONIBLE
+34;VP 03;VP 03;bon;49;39;2;true;DISPONIBLE
+35;PC B CD n�4;PC B CD n�4;moyen;165;138;2;true;DISPONIBLE
+36;Micro n�1;Micro n�1;neuf ;116;104;2;true;DISPONIBLE
+37;PC B CD n�8;PC B CD n�8;bon;46;31;2;true;DISPONIBLE
+38;PC B CD n�7;PC B CD n�7;moyen;189;0;2;true;INDISPONIBLE
+39;PC B LD n�13;PC B LD n�13;neuf ;126;119;2;true;DISPONIBLE
+40;Tascam mini n�9;Tascam mini n�9;bon;164;123;2;true;DISPONIBLE
+41;Tascam mini n�11;Tascam mini n�11;moyen;132;66;2;true;DISPONIBLE
+42;Tascam mini  n�12;Tascam mini  n�12;neuf ;121;114;2;true;DISPONIBLE
+43;Camescope HD n�2;Camescope HD n�2;bon;111;104;2;true;DISPONIBLE
+44;RONDSON n�2;RONDSON n�2;moyen;110;88;2;true;DISPONIBLE
+45;R�troprojecteur n�3;R�troprojecteur n�3;neuf ;48;46;2;true;DISPONIBLE
+46;PC B LD n�11;PC B LD n�11;bon;19;16;2;true;DISPONIBLE
+47;PC B LD n�16;PC B LD n�16;moyen;117;108;2;true;DISPONIBLE
+48;Micro Cravate n�1;Micro Cravate n�1;neuf ;61;55;2;true;DISPONIBLE
+49;Tr�pied n�1;Tr�pied n�1;bon;51;45;2;true;DISPONIBLE
+50;Tr�pied n�2;Tr�pied n�2;moyen;181;167;2;true;DISPONIBLE
+51;Tr�pied n�4;Tr�pied n�4;neuf ;63;0;2;true;DISPONIBLE
+52;Tr�pied n�5;Tr�pied n�5;bon;113;107;2;true;DISPONIBLE
+53;Tr�pied n�6;Tr�pied n�6;moyen;41;38;2;true;DISPONIBLE
+54;PC B CD n�12;PC B CD n�12;neuf ;101;94;2;true;DISPONIBLE
+55;Camescope HD n�3;Camescope HD n�3;bon;87;82;2;true;DISPONIBLE
+56;Camescope HD n�5;Camescope HD n�5;moyen;91;82;2;true;DISPONIBLE
+57;Camescope HD n�6;Camescope HD n�6;neuf ;116;110;2;true;DISPONIBLE
+58;Camescope HD n�8;Camescope HD n�8;bon;3;3;2;true;DISPONIBLE
+59;Camescope HD n�7;Camescope HD n�7;moyen;11;10;2;true;DISPONIBLE
+60;Tr�pied n�3;Tr�pied n�3;neuf ;104;94;2;true;DISPONIBLE
+61;Tr�pied n�9;Tr�pied n�9;bon;155;0;2;true;DISPONIBLE
+62;PC B LD n�15;PC B LD n�15;moyen;194;183;2;true;DISPONIBLE
+63;APN n�1;APN n�1;neuf ;97;81;2;true;DISPONIBLE
+64;Tr�pied n�8;Tr�pied n�8;bon;31;29;2;true;DISPONIBLE
+65;PC B LD n�4;PC B LD n�4;moyen;33;31;2;true;DISPONIBLE
+66;PC B LD 12;PC B LD 12;neuf ;164;150;2;true;INDISPONIBLE
+67;PC B LD n�9;PC B LD n�9;bon;157;149;2;true;DISPONIBLE
+68;PC B LD n�6;PC B LD n�6;moyen;121;101;2;true;DISPONIBLE
+69;Tr�pied n�7;Tr�pied n�7;neuf ;7;6;2;true;DISPONIBLE
+70;PC B LD n�18;PC B LD n�18;bon;193;183;2;true;DISPONIBLE
+71;PC B LD n�19;PC B LD n�19;moyen;100;94;2;true;DISPONIBLE
+72;PC B LD n�3;PC B LD n�3;neuf ;138;128;2;true;DISPONIBLE
+73;PC B LD n�2;PC B LD n�2;bon;134;89;2;true;DISPONIBLE
+74;PC B LD n�14;PC B LD n�14;moyen;125;109;2;true;DISPONIBLE
+75;PC B LD n�10 ALIM ABS;PC B LD n�10 ALIM ABS;neuf ;45;43;2;true;DISPONIBLE
+76;Micro n�4;Micro n�4;bon;60;50;2;true;DISPONIBLE
+77;PC B LD n�8;PC B LD n�8;moyen;176;166;2;true;DISPONIBLE
+78;Micro n�3;Micro n�3;neuf ;64;59;2;true;DISPONIBLE
+79;PC B LD n�20;PC B LD n�20;bon;3;3;2;true;DISPONIBLE
+80;PC B LD n�17;PC B LD n�17;moyen;133;111;2;true;DISPONIBLE
+81;Ipad n�10 - SPARE;Ipad n�10 - SPARE;neuf ;51;48;2;true;INDISPONIBLE
+82;RONDSON n�4;RONDSON n�4;bon;96;90;2;true;DISPONIBLE
+83;APN n�2;APN n�2;moyen;194;175;2;true;DISPONIBLE
+84;PC B CD N 13;PC B CD N 13;neuf ;166;133;2;true;DISPONIBLE
+85;PC B LD n�21;PC B LD n�21;bon;122;112;2;true;DISPONIBLE
+86;PC B LD 4;PC B LD 4;moyen;31;29;2;true;DISPONIBLE
+87;Micro n�2;Micro n�2;neuf ;187;140;2;true;DISPONIBLE
+88;VP 12;VP 12;bon;72;65;2;true;DISPONIBLE
+89;PC B LD n�5;PC B LD n�5;moyen;24;22;2;true;DISPONIBLE
+90;VP 14;VP 14;neuf ;114;0;2;true;DISPONIBLE
+91;Ipad n�1;Ipad n�1;bon;103;77;2;true;DISPONIBLE
+92;Ipad n�3;Ipad n�3;moyen;104;52;2;true;DISPONIBLE
+93;PC;PC;neuf ;192;182;2;true;DISPONIBLE
